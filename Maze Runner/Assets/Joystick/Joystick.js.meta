@@ -1,9 +1,0 @@
-fileFormatVersion: 2
-guid: 2b9073f877975924d8df191c39453087
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences:
-  - joystickTexture: {fileID: 2800000, guid: f5766c6ae3f6aae449de46ff74405c9a, type: 3}
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
